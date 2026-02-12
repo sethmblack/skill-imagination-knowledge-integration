@@ -1,10 +1,9 @@
 ---
 name: imagination-knowledge-integration
-description: A structured approach to generating creative breakthroughs by combining
-  imaginative exploration with existing knowledge through "combinatory play.
+description: A structured approach to generating creative breakthroughs by combining imaginative exploration with existing knowledge through "combinatory play.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
